@@ -1,0 +1,12 @@
+Pemeriksaan,Status,Keterangan
+Outcome 1 - Kelengkapan metrik,PASS,"Kolom tersedia: ['Fold', 'Accuracy', 'Precision', 'Recall', 'F1-Score', 'Test Recordings']"
+Outcome 1 - Rentang metrik,PASS,Seluruh metrik harus berada pada rentang 0-1
+Outcome 1 - Jumlah fold,PASS,4 fold
+Outcome 2 - Kolom prediksi,PASS,"Kolom tersedia: ['Actual', 'Predicted', 'Absolute Error']"
+Outcome 2 - Nilai prediksi valid,PASS,Jumlah prediksi: 909
+Outcome 2 - Konsistensi error,PASS,"MAE=0.000648, RMSE=0.001195"
+Outcome 2 - R2 finite,PASS,R2=0.956253
+Outcome 2 - Ukuran cacat aktual,PASS,"Target: 0.007, 0.014, 0.021 inch"
+Outcome 3 - Kelengkapan metrik,PASS,"Kolom tersedia: ['Fold', 'Train Recordings', 'Validation Recordings', 'Segment Accuracy', 'Segment Macro F1', 'Recording Accuracy', 'Recording Macro F1']"
+Outcome 3 - Rentang metrik,PASS,Seluruh metrik harus berada pada rentang 0-1
+Outcome 3 - Jumlah fold,PASS,4 fold

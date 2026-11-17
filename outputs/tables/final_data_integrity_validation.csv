@@ -1,0 +1,19 @@
+Pemeriksaan,Status,Keterangan
+Jumlah rekaman - Clean,PASS,40 dari 40 rekaman
+Jumlah rekaman - Filtered,PASS,40 dari 40 rekaman
+Jumlah rekaman - Features,PASS,40 dari 40 rekaman
+Jumlah rekaman - Harmonic,PASS,40 dari 40 rekaman
+Sampling rate 12.000 Hz,PASS,Sampling rate: [np.int64(12000)]
+Amplitudo valid - Clean,PASS,Tidak ada NaN/Inf
+Amplitudo valid - Filtered,PASS,Tidak ada NaN/Inf
+Duplikasi sampel - Clean,PASS,0 duplikasi
+Duplikasi sampel - Filtered,PASS,0 duplikasi
+Jumlah sampel clean vs filtered,PASS,"Clean=4815787, Filtered=4815787"
+Identitas sampel clean vs filtered,PASS,Seluruh identitas cocok
+Label kondisi bearing,PASS,"{'Outer Race': 1464906, 'Ball Fault': 1463166, 'Inner Race': 1463077, 'Normal': 424638}"
+Label beban motor,PASS,"{3: 1220401, 2: 1218314, 1: 1218169, 0: 1158903}"
+Validitas ukuran cacat,PASS,Normal=NaN; Fault=0.007/0.014/0.021 inch
+Kelengkapan 16 fitur,PASS,Fitur hilang: []
+Nilai fitur valid,PASS,Seluruh fitur finite
+Kelengkapan 6 fitur harmonik,PASS,Fitur hilang: []
+Nilai harmonik valid,PASS,Seluruh fitur finite

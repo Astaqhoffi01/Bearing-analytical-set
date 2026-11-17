@@ -1,0 +1,2 @@
+Outcome,Model,MAE (inch),RMSE (inch),R2,Total Predictions
+2 - Defect Size,XGBoost Regression,0.000648472301430143,0.0011954319821323818,0.9562533380437259,909

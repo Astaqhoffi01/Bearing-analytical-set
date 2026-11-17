@@ -1,0 +1,17 @@
+Feature,Importance
+band_power_low,0.1641712
+crest_factor,0.14539671
+std,0.1296023
+peak_amplitude,0.09916469
+rms,0.08243176
+total_spectral_power,0.07728518
+band_power_mid,0.061695844
+dominant_frequency,0.055480015
+band_power_high,0.052412484
+kurtosis,0.03237297
+skewness,0.027930949
+spectral_bandwidth,0.022077782
+spectral_centroid,0.019145736
+spectral_entropy,0.017292745
+peak_to_peak,0.0104331905
+mean,0.003106459

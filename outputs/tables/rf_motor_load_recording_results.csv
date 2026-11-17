@@ -1,0 +1,11 @@
+source_file,actual,predicted,total_segments,correct
+108.mat,3,2,102,False
+119.mat,1,0,101,False
+130.mat,0,1,101,False
+170.mat,1,2,101,False
+185.mat,0,2,101,False
+200.mat,3,2,101,False
+211.mat,2,3,101,False
+223.mat,1,2,101,False
+234.mat,0,1,102,False
+99.mat,2,1,101,False

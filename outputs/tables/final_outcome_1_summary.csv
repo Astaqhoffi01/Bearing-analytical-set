@@ -1,0 +1,2 @@
+Outcome,Model,Accuracy,Precision,Recall,F1-Score
+Bearing Condition,Random Forest,0.9348122979147353,0.9524896633465082,0.9113469471947195,0.9186547475932545

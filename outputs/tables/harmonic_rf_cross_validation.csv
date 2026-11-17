@@ -1,0 +1,5 @@
+Fold,Train Recordings,Validation Recordings,Segment Accuracy,Segment Macro F1,Recording Accuracy,Recording Macro F1
+1,30,10,0.97,0.9694002447980415,1.0,1.0
+2,30,10,0.98,0.9833147942157954,1.0,1.0
+3,30,10,0.98,0.9774476935493885,1.0,1.0
+4,30,10,0.9578947368421052,0.9542198993418506,1.0,1.0

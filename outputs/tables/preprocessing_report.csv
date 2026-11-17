@@ -1,0 +1,41 @@
+﻿source_file,status,original_samples,invalid_samples,output_samples,notes
+97.mat,OK,243938,0,60985,Resampled 48k to 12k
+98 .mat,OK,483903,0,120976,Resampled 48k to 12k
+99.mat,OK,485063,0,121266,Resampled 48k to 12k
+100.mat,OK,485643,0,121411,Resampled 48k to 12k
+105.mat,OK,121265,0,121265,No resampling
+106.mat,OK,121991,0,121991,No resampling
+107.mat,OK,122136,0,122136,No resampling
+108.mat,OK,122917,0,122917,No resampling
+118.mat,OK,122571,0,122571,No resampling
+119.mat,OK,121410,0,121410,No resampling
+120.mat,OK,121556,0,121556,No resampling
+121.mat,OK,121556,0,121556,No resampling
+130.mat,OK,121991,0,121991,No resampling
+131.mat,OK,122426,0,122426,No resampling
+132.mat,OK,121410,0,121410,No resampling
+133.mat,OK,122571,0,122571,No resampling
+169.mat,OK,121846,0,121846,No resampling
+170.mat,OK,121846,0,121846,No resampling
+171.mat,OK,121846,0,121846,No resampling
+172.mat,OK,121701,0,121701,No resampling
+185.mat,OK,121846,0,121846,No resampling
+186.mat,OK,122136,0,122136,No resampling
+187.mat,OK,121991,0,121991,No resampling
+188.mat,OK,122136,0,122136,No resampling
+197.mat,OK,121846,0,121846,No resampling
+198.mat,OK,122136,0,122136,No resampling
+199.mat,OK,121846,0,121846,No resampling
+200.mat,OK,121991,0,121991,No resampling
+209.mat,OK,122136,0,122136,No resampling
+210.mat,OK,121556,0,121556,No resampling
+211.mat,OK,121846,0,121846,No resampling
+212.mat,OK,121991,0,121991,No resampling
+222.mat,OK,121991,0,121991,No resampling
+223.mat,OK,121701,0,121701,No resampling
+224.mat,OK,122136,0,122136,No resampling
+225.mat,OK,122136,0,122136,No resampling
+234.mat,OK,122426,0,122426,No resampling
+235.mat,OK,121991,0,121991,No resampling
+236.mat,OK,122281,0,122281,No resampling
+237.mat,OK,121991,0,121991,No resampling

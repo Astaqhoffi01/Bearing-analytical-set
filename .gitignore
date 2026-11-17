@@ -221,3 +221,38 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment variables dan kredensial
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# IDE dan sistem operasi
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Dataset mentah dan hasil preprocessing besar
+data/raw/
+data/processed/
+*.mat
+
+# File sementara
+*.tmp
+*.log

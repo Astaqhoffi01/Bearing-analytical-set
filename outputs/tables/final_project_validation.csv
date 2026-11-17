@@ -1,0 +1,14 @@
+Tahapan,File,Status
+Preprocessing,bearing_clean.csv,Tersedia
+Preprocessing,metadata_rekaman.csv,Tersedia
+Preprocessing,preprocessing_report.csv,Tersedia
+Signal Processing,bearing_filtered.csv,Tersedia
+Feature Engineering,bearing_features.csv,Tersedia
+Feature Engineering,segmentation_report.csv,Tersedia
+Outcome 1 - Random Forest,rf_cross_validation.csv,Tersedia
+Outcome 1 - Random Forest,rf_feature_importance.csv,Tersedia
+Outcome 2 - XGBoost,xgb_defect_predictions.csv,Tersedia
+Outcome 2 - XGBoost,xgb_feature_importance.csv,Tersedia
+Outcome 3 - Random Forest Harmonic,harmonic_rf_cross_validation.csv,Tersedia
+Outcome 3 - Random Forest Harmonic,harmonic_rf_feature_importance.csv,Tersedia
+Outcome 3 - Random Forest Harmonic,harmonic_rf_ablation_study.csv,Tersedia

@@ -1,0 +1,11 @@
+source_file,actual,predicted,total_segments,correct
+108.mat,3,3,10,True
+119.mat,1,1,10,True
+130.mat,0,0,10,True
+170.mat,1,1,10,True
+185.mat,0,0,10,True
+200.mat,3,3,10,True
+211.mat,2,2,10,True
+223.mat,1,1,10,True
+234.mat,0,0,10,True
+99.mat,2,2,10,True

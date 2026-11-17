@@ -1,0 +1,3 @@
+Outcome,Model,Accuracy,F1-Score,Evaluation
+1 - Bearing Condition,Random Forest,0.9348122979147353,0.9186547475932545,4-Fold Group CV
+3 - Motor Load,Random Forest Harmonic,0.9719736842105262,0.971095657976269,4-Fold Group CV

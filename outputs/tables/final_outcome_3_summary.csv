@@ -1,0 +1,2 @@
+Outcome,Model,Segment Accuracy,Segment Macro F1,Recording Accuracy,Recording Macro F1
+Motor Load,Random Forest Harmonic,0.9719736842105262,0.971095657976269,1.0,1.0

@@ -1,0 +1,4 @@
+Outcome,Status,Keterangan
+Outcome 1 - Random Forest,BELUM TERVERIFIKASI,"Kolom tersedia: ['Fold', 'Accuracy', 'Precision', 'Recall', 'F1-Score', 'Test Recordings']. Perlu memeriksa kode pembagian data."
+Outcome 2 - XGBoost,BELUM TERVERIFIKASI,"Kolom tersedia: ['Actual', 'Predicted', 'Absolute Error']. Perlu memeriksa kode pembagian data."
+Outcome 3 - Harmonic RF,BELUM TERVERIFIKASI,"Kolom tersedia: ['source_file', 'actual', 'predicted', 'total_segments', 'correct']. Perlu memeriksa kode pembagian data."

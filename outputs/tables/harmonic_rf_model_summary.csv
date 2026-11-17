@@ -1,0 +1,5 @@
+Evaluation,Accuracy,Macro F1
+Training,0.9661016949152542,0.9682142997094602
+Testing,0.99,0.9874921826141339
+Cross-Validation (Segment),0.9719736842105262,0.971095657976269
+Cross-Validation (Recording),1.0,1.0
