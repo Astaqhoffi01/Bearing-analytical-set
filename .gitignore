@@ -250,9 +250,18 @@ Thumbs.db
 
 # Dataset mentah dan hasil preprocessing besar
 data/raw/
-data/processed/
+data/processed/*
+!data/processed/bearing_features.csv
+!data/processed/bearing_features_harmonic.csv
+!data/processed/bearing_features_motor_load.csv
 *.mat
 
 # File sementara
 *.tmp
 *.log
+
+# Allow original CWRU dataset
+!data/raw/
+data/raw/*
+!data/raw/CWRU_40_files/
+!data/raw/CWRU_40_files/*.mat
